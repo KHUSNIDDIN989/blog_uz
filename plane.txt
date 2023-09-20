@@ -1,0 +1,35 @@
+Blog 
+    users
+        CRUD
+    Auth
+        regster
+            userId => required unique
+            username => required unique 
+            email   => required unique 
+            password => required
+            userImage
+
+        logging
+            username => required
+            password => required
+
+    check token
+
+    Posts
+        postId => required
+        postTitle => required
+        postBody => required
+        postImage 
+        createdAt => required
+        updatedAt => required
+
+        get => Public
+        post => Privete
+        put => private
+        delete => private
+
+express
+jsonwebtoken
+bcrypt
+multer
+dotenv

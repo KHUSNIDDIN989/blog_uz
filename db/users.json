@@ -1,0 +1,26 @@
+[
+  {
+    "userId": "186a51be-829b-4b50-901a-e43d9e52414e",
+    "username": "Eshmat",
+    "email": "eshmat@gmail.com",
+    "hashPassword": "$2b$10$DvX24b9l9.GBc4kZIgoKkO326.rqaS0l7PqIRplqHhgCdolEN2CTe",
+    "createdAt": "2023-09-20T12:09:10.219Z",
+    "updateAt": null
+  },
+  {
+    "userId": "590d465c-ba0f-4179-8566-7bc2ffe63f6d",
+    "username": "Eshmat",
+    "email": "eshmat@gmail.com",
+    "hashPassword": "$2b$10$SozbIgJ9IDC.Hjl6W/m9meyz8CjOnpJaC9UksSK933HF5d/T4oSqO",
+    "createdAt": "2023-09-20T12:10:59.462Z",
+    "updateAt": null
+  },
+  {
+    "userId": "d1dd4170-0edc-4e48-a837-b330ec5eba05",
+    "username": "Eshmat",
+    "email": "eshmat@gmail.com",
+    "hashPassword": "$2b$10$tXdqXXGHzmW0Ik860ntm7u//sQdsWRgTn9.M6gnB5bBh42lDNCY.6",
+    "createdAt": "2023-09-20T12:11:51.484Z",
+    "updateAt": null
+  }
+]
